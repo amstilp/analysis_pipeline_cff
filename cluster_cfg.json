@@ -38,7 +38,7 @@
             "-q":"topmed.q",
             "-S":"/bin/sh",
             "-terse":"",
-            "-v":"R_LIBS=/projects/topmed/working_code/analysis_pipeline_devel/R_library"
+            "-v":"R_LIBS=/home/amstilp/devel/analysis_pipeline_cff_wgs/R_library"
         },
         "parallel_env": "local",
         "resume_script": "resume_analysis.py",
