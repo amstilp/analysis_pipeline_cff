@@ -35,7 +35,7 @@
             "-cwd":"",
             "-N":"",
             "-j":"y",
-            "-q":"topmed.q",
+            "-q":"all.q",
             "-S":"/bin/sh",
             "-terse":"",
             "-v":"R_LIBS=/home/amstilp/devel/analysis_pipeline_cff_wgs/R_library"
