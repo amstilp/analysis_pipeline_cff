@@ -1,5 +1,8 @@
 #! /bin/bash
 
+# This command is required to run R.
+module load conda
+
 # set MKL_NUM_THREADS to match number of available cores
 export MKL_NUM_THREADS=$NSLOTS
 
