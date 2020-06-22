@@ -38,7 +38,7 @@
             "-q":"all.q",
             "-S":"/bin/sh",
             "-terse":"",
-            "-v":"R_LIBS=/labdata12/CF_WGS2/amstilp/analysis_pipeline_cff_wgs/R_library"
+            "-v":"R_LIBS=/labdata12/CF_WGS2/amstilp/analysis_pipeline_cff_wgs/R_library,PATH=/cm/shared/apps/conda3/5.3.1/bin/R:/cm/shared/apps/conda3/5.3.1/bin/python3:$PATH"
         },
         "parallel_env": "local",
         "resume_script": "resume_analysis.py",
