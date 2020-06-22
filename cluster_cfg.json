@@ -38,7 +38,7 @@
             "-q":"all.q",
             "-S":"/bin/sh",
             "-terse":"",
-            "-v":"R_LIBS=/home/amstilp/devel/analysis_pipeline_cff_wgs/R_library"
+            "-v":"R_LIBS=/labdata12/CF_WGS2/amstilp/analysis_pipeline_cff_wgs/R_library"
         },
         "parallel_env": "local",
         "resume_script": "resume_analysis.py",
