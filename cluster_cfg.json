@@ -35,7 +35,7 @@
             "-cwd":"",
             "-N":"",
             "-j":"y",
-            "-q":"all.q",
+            "-q":"new.q",
             "-S":"/bin/sh",
             "-terse":"",
             "-v":"R_LIBS=/labdata12/CF_WGS2/amstilp/analysis_pipeline_cff_wgs/R_library,PATH=/cm/shared/apps/conda3/5.3.1/bin/R:/cm/shared/apps/conda3/5.3.1/bin/python3:$PATH"
